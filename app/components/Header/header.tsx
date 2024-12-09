@@ -22,7 +22,7 @@ export default function Header(){
               <div>  <Image src={"/accountlogo.png"} alt="account" width={24} height={24} /></div>
              <div>  <Image src={"/search.png"} alt="search" width={24} height={24} /></div> 
               <div>  <Image src={"/wishlist.png"} alt="wishlist" width={24} height={24} /></div>
-              <div><Link href={"./components/Cart"}><Image src={"/cart.png"} alt="cart" width={24} height={24} /></Link></div>
+              <div><Link href={"./components/Cart"}><Image src={"/Cart.png"} alt="cart" width={24} height={24} /></Link></div>
               
                 </div>
             </div>
