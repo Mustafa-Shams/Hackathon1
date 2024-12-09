@@ -32,7 +32,7 @@ export default function Header(){
               <div>  <Image src={"/wishlist.png"} alt="wishlist" width={24} height={24} /></div>
               <div>
               <DropdownMenu>
-  <DropdownMenuTrigger><Image src={"/cart.png"} alt="cart" width={24} height={24} /></DropdownMenuTrigger>
+  <DropdownMenuTrigger><Image src={"/Cart.png"} alt="cart" width={24} height={24} /></DropdownMenuTrigger>
   <DropdownMenuContent>
     <DropdownMenuLabel><div className="flex flex-row justify-between items-center pb-5 ">
 <h1 className="font-bold text-[24px] flex flex-row justify-center items-center">Shopping Cart</h1>
